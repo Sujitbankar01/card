@@ -9,8 +9,11 @@
     margin-top: 10px;
 
 }
+.logo{
 
-
+    margin: 5px 20px;
+    height: 45px;
+}
 .text{
     margin: 5px 5px;
     font-size: 20px;
